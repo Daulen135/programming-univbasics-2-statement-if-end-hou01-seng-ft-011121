@@ -1,4 +1,5 @@
-2.6.1 :001 > Time.now
+current_time=Time.now 
+
 
 
 
